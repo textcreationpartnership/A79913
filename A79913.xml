@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth released from prison, to its former libertie. Or, A true discovery, who are the troublers of true Israel; the disturbers of Englands peace. With a brief narration; in which is impartially debated of, who are the true embassadors of that great Jehovah, the Prince of Peace. By Lawrence Clarkson, a labourer in that great mysterie of godlinesse.</title>
+            <author>Clarkson, Lawrence.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79913</idno>
+            <idno type="STC">Wing C4585</idno>
+            <idno type="STC">Thomason E1181_6</idno>
+            <idno type="STC">ESTC R208137</idno>
+            <idno type="EEBO-CITATION">99867124</idno>
+            <idno type="PROQUEST">99867124</idno>
+            <idno type="VID">169435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169435)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1181[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth released from prison, to its former libertie. Or, A true discovery, who are the troublers of true Israel; the disturbers of Englands peace. With a brief narration; in which is impartially debated of, who are the true embassadors of that great Jehovah, the Prince of Peace. By Lawrence Clarkson, a labourer in that great mysterie of godlinesse.</title>
+                  <author>Clarkson, Lawrence.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Jane Coe, for John Pounset, at the lower end of Budge-row, near Canon-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B.</note>
+                  <note>Annotation on Thomason copy: "march 5"; the second 6 in the imprint date has been crossed out and replaced with a "5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antinomianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169435:1" rendition="simple:additions"/>
+            <p>TRUTH RELEASED FROM PRISON, TO ITS Former Libertie. OR, A true diſcovery, who are the troublers of true Iſrael; the diſturbers of <hi>Englands</hi> Peace. <hi>With a brief Narration; in which is impartially debated of, who are the true Embaſſadors of that great</hi> Jehovah, <hi>the Prince of Peace.</hi> By LAWRENCE CLARKSON, a Labourer in that great My<g ref="char:EOLhyphen"/>ſterie of godlineſſe.</p>
+            <p>London, Printed by Iane Coe, for Iohn Pounſet, at the lower end of Budge-row, near Canon-ſtreet. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169435:2"/>
+            <pb facs="tcp:169435:2"/>
+            <head>TO The Mayor, Alder<g ref="char:EOLhyphen"/>men, with the Inhabitants of the Towne of <hi>Preſton</hi> in <hi>Amounderneſſe,</hi> in the County of <hi>Lancaſter.</hi>
+            </head>
+            <argument>
+               <p>Your Towneſman wiſheth, that Truth in Peace, and Peace in Truth, may dwell in your hearts as one man.</p>
+            </argument>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ere it ſo that Truth were underſtood in its <hi>Center,</hi> that Truth were apprehended in its <hi>Element,</hi> then would a Truth be received as a Truth; notwithstanding the Meſſenger be not he you expected. This would be nothing in hinderance, that Truth ſhould not be embraced as a
+<pb facs="tcp:169435:3"/> Truth, ſo that if Truth in the power thereof hath not reduced your ſpirits in obedience thereto, though an <hi>Angel</hi> from <hi>Heaven</hi> ſhould divulge the truth you cannot believe it.</p>
+            <p>To that end ſaith the <hi>Prophet in hearing you ſhall heare, and not un<g ref="char:EOLhyphen"/>derſtand,</hi>
+               <note place="margin">Iſa. 6. 9.</note> 
+               <hi>in ſeeing you ſhall ſee, and not perceive a truth from an error,</hi> for the prevention hereof, obſerve the <hi>Apoſtles</hi> exhortation, prove all things, and try the ſpirits of men; <hi>that ſo you</hi>
+               <note place="margin">1 Theſ. 5. 21.</note> 
+               <hi>may not hold faſt that which is evill, and loſe that which is good,</hi> in esteeming one <hi>meſſenger</hi> aboue ano<g ref="char:EOLhyphen"/>ther; in ſo doing you receive the <hi>meſ<g ref="char:EOLhyphen"/>ſage</hi> in love to the <hi>meſſenger,</hi> and not in love to the <hi>meſſage</hi> it ſelfe; ſo that it comes, ye rejoyce in man and not in truth, delivered by the man (as in<g ref="char:EOLhyphen"/>stance) the <hi>Countrymen</hi> of Christ could not but be aſtoniſhed at the <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> delivered by him; Saying, <hi>from whence hath he theſe things, &amp; what</hi>
+               <note place="margin">Mark. 6. 2. 3.</note> 
+               <hi>wiſdome is this that is given unto him, &amp;c.</hi> They could not but acknow<g ref="char:EOLhyphen"/>ledge the <hi>excellence</hi> thereof, and with <hi>admiration</hi> conclude; never man<note place="margin">Iohn 7 46</note>
+               <pb facs="tcp:169435:3"/> ſpake like this man, (but) when they underſtood whoſe Son he was; how that he was a <hi>Carpenter, Maries Son, the brother of JAMES and JOSES</hi>
+               <note place="margin">verſ. 3.</note> 
+               <hi>and of JVDAH and SIMON, and that their Siſters were</hi> with them; then their note was changed; for wher<g ref="char:EOLhyphen"/>as before they <hi>appluaded</hi> him: now ſaith the Text, they were <hi>offended</hi> in him.</p>
+            <p>So that <hi>Gentlemen,</hi> to this end I quote this <hi>Scripture,</hi> that ſo you may examine your own hearts, whether you be not offended, that God hath been pleaſed to call out the poorest, and weakeſt of his Saints, adorning them with gifts equivalent thereto, <hi>autho<g ref="char:EOLhyphen"/>rizing</hi> them by his <hi>Princely Majeſty</hi> to divulge his <hi>meſſage</hi> to <hi>People, Kings, &amp; Nations,</hi> and who ſhall with<g ref="char:EOLhyphen"/>ſtand his pleaſure herein, or who dare preſume to murmure at the doings of the Lord, ſeeing they are <hi>marvelous</hi> in the eyes of men; knowing this, <hi>that all things are of him, through him,</hi>
+               <note place="margin">Rom. 11. 36.</note> 
+               <hi>and to him;</hi> So that he may do with his owne, what he pleaſeth; as what if he pleaſe to confound the <hi>Wiſe,</hi> and
+<pb facs="tcp:169435:4"/> exalt the <hi>Ignorant?</hi> what if he pleaſe<note place="margin">So accoun<g ref="char:EOLhyphen"/>ted.</note> to refuſe the greatneſſe of the <hi>Elders Scribes,</hi> and <hi>Phariſees,</hi> and accept of beggers, as <hi>Peter</hi> and <hi>John?</hi> what if he pleaſe to reject the <hi>Nobility</hi> of <hi>King Ahab,</hi> and approbate the Propheſye of poore <hi>ELIAH,</hi> of poore Tradesmen, as Taylors, Weavers &amp;c. Should this diſpleaſe you, that is the pleaſure of God?</p>
+            <p>If this be your trouble that <hi>Eldad</hi>
+               <note place="margin">Gentle<g ref="char:EOLhyphen"/>men,</note> and <hi>Medad</hi> ſhould propheſie, that the Saints of the moſt high ſhould deliver the <hi>meſſage</hi> of the King of Kings, that the <hi>Family</hi> of love ſhould improve their <hi>Tallent</hi> given them by their <hi>Fa<g ref="char:EOLhyphen"/>ther;</hi> notwithstanding your diſplea<g ref="char:EOLhyphen"/>ſure<note place="margin">1 Iohn 1. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> herein, I dare not, I cannot, but <hi>what I have ſeene and heard, declare unto you;</hi> (yea you) my <hi>Country<g ref="char:EOLhyphen"/>men,</hi> my <hi>Townes-men,</hi> my <hi>Neigh<g ref="char:EOLhyphen"/>bours,</hi> and my <hi>Acquaintance;</hi> under this <hi>Relation</hi> I am <hi>imboldned.</hi> I am <hi>engaged</hi> to preſent my <hi>Light</hi> before you, to traffick with my <hi>Tallent</hi> a<g ref="char:EOLhyphen"/>mongſt you, to the end you may ſee and acknowledge, God is not <hi>partiall, with him is no reſpecting of Perſons;</hi> yea<note place="margin">Rom. 2. 11.</note>
+               <pb facs="tcp:169435:4"/> with God it matters not, of what <hi>occu<g ref="char:EOLhyphen"/>pation</hi> he be, provided, he be lawfully called and ſent out by God, approbated and authorized by his <hi>Maieſty,</hi> in that the worke is the <hi>Lords,</hi> and not <hi>mans,</hi> (therefore) it is the <hi>Prerogative</hi> of God to make choyce of what <hi>meſſenger</hi> he pleaſeth.</p>
+            <p>So that <hi>Gentlemen,</hi> what ſhould I ſay to you, or to what ſhould I councell you, (onely this) that you would be pleaſed to approve of that which is ap<g ref="char:EOLhyphen"/>proved by God, that you would receive that which is ſent by God, that ſo I may not have the like occaſion to <hi>weep</hi> over you, as Christ had over <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> ſaying, O <hi>Jeruſalem Jeruſalem,</hi>
+               <note place="margin">Math. 23. 37.</note> &amp;c. So that I may not ſay O <hi>Preſton, Preſton,</hi> thou that haſt been ſeduced by blinde <hi>Guides;</hi> inſomuch that thou haſt <hi>worſhipped</hi> that for <hi>God</hi> which <hi>really</hi> was no <hi>God,</hi> as instance thy ex<g ref="char:EOLhyphen"/>alting the <hi>Common Prayer,</hi> thy cruci<g ref="char:EOLhyphen"/>fix in <hi>baptiſm,</hi> thy <hi>kneeling</hi> at <hi>Sa<g ref="char:EOLhyphen"/>crament;</hi> thy reverence to the <hi>Steeple</hi> was ſo great, that I was reproved for turning againſt the wall; ſo<note place="margin">By Mr. Huddſon then your Lecturer.</note> that I may ſay, thou that de<g ref="char:EOLhyphen"/>ſpiſeſt the <hi>Prpohets</hi> of God, and re<g ref="char:EOLhyphen"/>jecteth
+<pb facs="tcp:169435:5"/> them that are ſent unto thee, how often hath the <hi>Lord</hi> unſheathed his <hi>Sword</hi> againſt thee, how often hath he <hi>plundred</hi> thee, &amp; yet notwithſtanding thou canſt not, thou wilt not <hi>returne, returne</hi> unto thy God; ſo that <hi>Preſton</hi> my requeſt to God is for thee, that the <hi>Love</hi> of Chriſt may <hi>plunder</hi> thee, may <hi>perſwade</hi> thee, yea may <hi>conquer</hi> thee in obedience to his <hi>Majeſty:</hi> that ſo you may become truly <hi>Noble</hi> with the men of <hi>Berea,</hi> in <hi>receiving the Word of</hi>
+               <note place="margin">Acts. 17. 10.</note> 
+               <hi>God with all readineſſe of minde,</hi> and in holy <hi>wiſedome</hi> ſearch the <hi>Scriptures,</hi> to the end you may truly underſtand by whom the Goſpel was preached, and from whom they were authorized.</p>
+            <p>That in ſo doing this poore <hi>Tallent</hi> of mine may finde entertainment with you, ſo as to be received by you, not onely by the hearing in the <hi>eare,</hi> but in the underſtanding of the <hi>hart;</hi> the which I in all <hi>Chriſtian</hi> love preſent to your conſideration, deſiring it may be per<g ref="char:EOLhyphen"/>uſed with a <hi>ſingle eye</hi> and <hi>impartiall Spirit,</hi> to the end you may not <hi>approve</hi> or <hi>diſprove,</hi> of theſe few lines, in refe<g ref="char:EOLhyphen"/>rence to the <hi>Author;</hi> but as you un<g ref="char:EOLhyphen"/>derſtand
+<pb facs="tcp:169435:5"/> the matter herein contained, ſo <hi>Judge,</hi> and ſo <hi>Speake,</hi> and withall I intreat you, if you apprehend any <hi>er<g ref="char:EOLhyphen"/>ror</hi> through weakneſſe, delivered by me in that I am the weakest of thou<g ref="char:EOLhyphen"/>ſands: that you would be pleaſed to im<g ref="char:EOLhyphen"/>pute it to me the <hi>Author</hi> thereof, that ſo <hi>Truth</hi> by you may not be <hi>Scandali<g ref="char:EOLhyphen"/>zed;</hi> but in all wiſedome <hi>Vindicated,</hi>
+               <note place="margin">Iames 1. 27.</note> in that it is pure and undefiled</p>
+            <p>For the performance of which, turn your eyes upon the enſuing ſubject, and the Lord give you underſtanding to ap<g ref="char:EOLhyphen"/>prehend the truth therein contained; which, I hope nothing there from is pre<g ref="char:EOLhyphen"/>ſented to the view of your eye; but what the text will beare me out, as that <hi>E<g ref="char:EOLhyphen"/>liah</hi> by the <hi>Court</hi> of equity was enga<g ref="char:EOLhyphen"/>ged, to bring to light the Iſhues of <hi>A<g ref="char:EOLhyphen"/>habs</hi> unjuſt proceedings, and that the more truth might be vindicated, the <hi>Gentry</hi> with the <hi>Comonalty</hi> ſatisfied, who was the troubler of <hi>Iſrael:</hi> under the ſame ingagement, by the ſame Co<g ref="char:EOLhyphen"/>venant, are <hi>Elias</hi> friends constrained to vindicate their <hi>call,</hi> their <hi>Doctrine,</hi> &amp; their <hi>Profeſſion;</hi> from any report or ſcandal, imputed on them by <hi>Ahabs</hi> Kinſmen, under what term ſoever, that thereby it may appeare who halts be<g ref="char:EOLhyphen"/>tweene
+<pb facs="tcp:169435:6"/> two opinions, who are Newters, who turnes with the times: that ſo you may know who are the troublers of <hi>Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi> this (and onely this) is my love to you: yea, my Petition for you; that you may be a diſcerning people, yea ſuch a people that the Lord delights to enhabit with, then will your <hi>Shire</hi> be a joy to <hi>England,</hi> yea your <hi>Towne</hi> will be a terror to the Enemies round about you, in that truth is ſtronger then <hi>Kings:</hi> Truth will do as the <hi>Ark</hi> to the <hi>Philiſtines,</hi> make them fear and trem<g ref="char:EOLhyphen"/>ble; yea truth is ſo farr from troubling<note place="margin">1 Sam. 4. 4. 7.</note> the Saints that it is their joy, their peace, their chifeſt treaſure: So that my concluſion is, truth may be your Governor, your Weapon, your refuge, your all in all; that truth may preſerve you from all your enemies, that truth may ſupport you in the greateſt miſery, that truth may poſſeſſe you in ever<g ref="char:EOLhyphen"/>laſting peace. So prayeth he that is,</p>
+            <closer>
+               <signed>Your Servant in the Truth. LAW. CLARKSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169435:6"/>
+            <head>Truth releaſed from Pri<g ref="char:EOLhyphen"/>ſon, to its former Liberty.</head>
+            <epigraph>
+               <bibl>1 KINGS, 18. 17.</bibl>
+               <q>Art thou he that troubleth Iſrael?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">D</seg>Eare friends, you have an inditement or ac<g ref="char:EOLhyphen"/>cuſation preferred in<g ref="char:EOLhyphen"/>to the Court of the living God.</p>
+            <p>The extent thereof lyeth in theſe words.</p>
+            <p>
+               <hi>Art thou he which troubleth Iſrael?</hi>
+            </p>
+            <p>The connexion of which is divi<g ref="char:EOLhyphen"/>ded in <hi>accuſatorem, et reum,</hi> That is, the <hi>Plantiffe</hi> and <hi>Defendant;</hi> ſo that the <hi>Court</hi> of equity doth produce an engagement in the hearts of all ſuch that are in Covenant with <hi>Chriſt Ie<g ref="char:EOLhyphen"/>ſus,</hi> that are of the ſworne <hi>Iury,</hi> to give in our Teſtimony concerning the inditement.</p>
+            <p>In that we may Evangelically pro<g ref="char:EOLhyphen"/>ſecute the truth of this <hi>information,</hi> I
+<pb facs="tcp:169435:7"/> ſhall enquire whether it be <hi>ſuppoſitive</hi> or <hi>Affirmative,</hi> that ſo juſtice in all e<g ref="char:EOLhyphen"/>quity may paſſe ſentence on both ſides.</p>
+            <p>To that end peruſe the <hi>Bill</hi> pre<g ref="char:EOLhyphen"/>ferred by <hi>King Ahab,</hi> and ſeriouſly take notice of the perticulars quoted in the <hi>Inditement;</hi> which were, that <hi>Eliah</hi> the <hi>defendant,</hi> ſhould propheſie bitter things that would befall the <hi>King,</hi> and <hi>Kingdome</hi> of <hi>Iſrael;</hi> ſaying,<note place="margin">Chap. 17 1.</note> as <hi>the Lord God of Iſrael liveth before whom I ſtand, there ſhall be neither dew nor rain, but according to my word.</hi>
+            </p>
+            <p>Secondly, examine the <hi>Defendant</hi> what was the reaſon of this his Pro<g ref="char:EOLhyphen"/>pheſie, whether it were out of the en<g ref="char:EOLhyphen"/>vie of his Spirit, or that it was the power of <hi>Iehovah,</hi> commanding and carrying out his heart to deal plainly with the <hi>Plantiffe, King Ahab.</hi>
+            </p>
+            <p>For your ſatisfaction in this quaery, I conceive the record will cleerly produce, that <hi>Eliah</hi> had no envie a<g ref="char:EOLhyphen"/>gainſt <hi>Ahab</hi> or his <hi>Kingdome,</hi> but did by the teachings of God declare, what the <hi>Lord</hi> had determined to do; in that he propheſied in the name of the Lord of <hi>Hoſts,</hi> as is confirmed by the record, where you have the <hi>Lord</hi>
+               <pb facs="tcp:169435:7"/> approbating his Propheſie, in that<note place="margin">Chap. 17. 7.</note> 
+               <hi>there fell no rayne upon the earth,</hi> &amp;c.</p>
+            <p>Secondly, this <hi>Meſſage</hi> of the man of <hi>God</hi> was very important, ſo as to requite <hi>King Ahab</hi> for his rebellion &amp; trouble of his poor <hi>Prophet,</hi> by his groſſe and wicked proceedings, in contempt and provocation of the <hi>Lord</hi> of <hi>Hoſts;</hi> inſomuch that he be<g ref="char:EOLhyphen"/>came the onely troubler of the <hi>King<g ref="char:EOLhyphen"/>dome</hi> himſelfe, as the <hi>Defendant</hi> hath it clearly recorded; ſaying, I <hi>have not troubled Iſrael, but thou and thy Fa<g ref="char:EOLhyphen"/>thers</hi>
+               <note place="margin">verſ. 18.</note> 
+               <hi>houſe, in that ye have forſaken the Commandements of the Lord, &amp;c.</hi>
+            </p>
+            <p>Yet you have this wicked <hi>King A<g ref="char:EOLhyphen"/>hab,</hi> with his wicked <hi>Prieſts</hi> and <hi>Courtiers</hi> accuſing and attaching in<g ref="char:EOLhyphen"/>nocent <hi>Eliah,</hi> to be a troubler of their <hi>State,</hi> a diſturber of their <hi>Peace,</hi> a hinderer of their <hi>reformation,</hi> when truly and really the <hi>Court</hi> of equity hath found the <hi>Plantiff</hi> guilty of that he accuſed the <hi>defendant</hi> of, and that not onely <hi>ſuppoſitively:</hi> but <hi>affirma<g ref="char:EOLhyphen"/>tively,</hi> ſaying I, (yea I) a poore de<g ref="char:EOLhyphen"/>ſpiſed <hi>Prophet,</hi> am not the troubler of <hi>Iſrael, &amp;c.</hi> but thou (yea thou) King <hi>Ahab,</hi> art he that troubleth <hi>Iſrael,</hi> From whence obſerve this conclu<g ref="char:EOLhyphen"/>ſion.</p>
+            <pb facs="tcp:169435:8"/>
+            <p>That the diſobedient and troub<g ref="char:EOLhyphen"/>lers<note place="margin" type="runSum">Doct.</note> of <hi>Iſrael;</hi> do firſt complaine that they are troubled.</p>
+            <p>Thus beloved, when <hi>juſtice</hi> is permit<g ref="char:EOLhyphen"/>ted to have its <hi>Prerogative,</hi> and when Partiality with reſpect of perſons doth ſtandat the doore; then ſhall poor <hi>Eliah</hi> have as free permiſſion to de<g ref="char:EOLhyphen"/>fend his cauſe as the <hi>King</hi> upon his <hi>Throne;</hi> then ſhall truth be countenan<g ref="char:EOLhyphen"/>ced and an eror rejected, &amp; not with this <hi>Prophet</hi> retire into the <hi>Wilderneſſe</hi> into <hi>Priſon,</hi> &amp;c. when erors lodge in the <hi>Kings Palace,</hi> as is recorded of this<note place="margin">Chap. 19. 4.</note> 
+               <hi>Defendant,</hi> he for the delivering of the <hi>Meſſage</hi> of the <hi>God</hi> of Truth; he for revealing the <hi>Kings</hi> pleaſure, was by a wicked <hi>King</hi> hunted and perſe<g ref="char:EOLhyphen"/>cuted for a troubler of <hi>Iſrael,</hi> &amp;c. ſo that from hence you may take no<g ref="char:EOLhyphen"/>tice of this propoſition.</p>
+            <p>That a truth propheſied or preach<g ref="char:EOLhyphen"/>ed<note place="margin" type="runSum">Doct.</note> by a poore <hi>Eliah,</hi> a poore Saint, is eſteemed a trouble to the <hi>Nobili<g ref="char:EOLhyphen"/>ty</hi> of <hi>Iſrael.</hi>
+            </p>
+            <p>Thus beloved, having ſet open the <hi>fountain,</hi> and made way for the ligt of truth, whereby we may with all brevity proſecute the precedent doctrines.</p>
+            <pb facs="tcp:169435:8"/>
+            <p>In which I ſhall by the aſſiſtance of God, produce nothing to this <hi>au<g ref="char:EOLhyphen"/>ditory;</hi> but what the ſubject I am now to treat upon, will vindicate my innocenſie in oppoſition to any <hi>malignant</hi> catching Spirits, that may hereafter favour or lay to my charge any ſuppoſed error, &amp;c.</p>
+            <p>So that in all Chriſtian love, I in<g ref="char:EOLhyphen"/>treat your Chriſtian attention, to that which God by mee ſhall be pleaſed to ſpeak from this concluſion.</p>
+            <p>That the diſobedient and trou<g ref="char:EOLhyphen"/>blers<note place="margin" type="runSum">Doct.</note> of <hi>Iſrael,</hi> doe firſt com<g ref="char:EOLhyphen"/>plaine that they are troubled.</p>
+            <p>The truth of this will appeare in theſe two enſuing perticulars, which are as followeth.</p>
+            <p>Firſt, who are the true <hi>Iſrael.</hi>
+            </p>
+            <p>Secondly, what will trouble this true <hi>Iſrael.</hi>
+            </p>
+            <p>For your ſatisfacton in the firſt I ſhall produce you the <hi>originall,</hi> and <hi>riſe</hi> of <hi>Iſrael;</hi> that ſo ye may take notice, ABRAHAM was the firſt that was made choyſe of, to call his<note place="margin">Gen. 2. 12.</note> people, in that he was commanded to leave his <hi>kindred,</hi> to the end, the <hi>Lord</hi> might bleſſe them that bleſſed him, and curſe them that curſed him,
+<pb facs="tcp:169435:9"/> he being the firſt called an <hi>Hebrew,</hi>
+               <note place="margin">Gen. 14. 13.</note> ſo that as yet <hi>Iſrael</hi> were not, nor had not their title; till JACOB was born ABRAHAMS Sons Son, ISA<g ref="char:EOLhyphen"/>ACS<note place="margin">Gen. 32. 28.</note> Son, ſo JACOB was firſt called JSRAEL; this JACOB having 12. Sons, which <hi>ſtock</hi> and <hi>Children</hi> were<note place="margin">Exod. 1. 1.</note> called JSRAEL, a people by them<g ref="char:EOLhyphen"/>ſelves, perſecuted of all nations, be<g ref="char:EOLhyphen"/>loved of none but God; ſo that of this <hi>ſtock</hi> came MOSES, yea all the holy <hi>Fathers, Kings,</hi> and <hi>Prophets,</hi>
+               <note place="margin">Deut. 14. 2</note> called and choſen by God for his peculiar treaſure, of this ſtock came <hi>Chriſt Ieſus,</hi> as was both <hi>promiſed</hi>
+               <note place="margin">Gen. 49. 10. Mich. 5. 2 Mat 2. 6.</note> and <hi>propheſied</hi> being confirmed in his <hi>birth.</hi>
+            </p>
+            <p>But what then, ſhall we conclude that the <hi>generations</hi> of the twelve <hi>tribes</hi> were the true <hi>Iſrael?</hi>
+            </p>
+            <p>My anſwer to that muſt ſpeak from the <hi>record</hi> in that the declaration of that ariſes, that all theſe were not true <hi>Iſrael,</hi> as is remarkeable; con<g ref="char:EOLhyphen"/>cerning <hi>Saloman,</hi> at whoſe death all<note place="margin">1 Kings 13. 11.</note> the <hi>tribes</hi> ſave, one had a wicked <hi>King Ieroboham;</hi> you ſhall finde they were divided again, yea you ſhal read this <hi>Iſrael</hi> ſo tituled, became ſo ſin<g ref="char:EOLhyphen"/>full, that this <hi>Prophet</hi> this <hi>defendant</hi>
+               <pb facs="tcp:169435:9"/> could not deſtinguiſh <hi>Iſrael</hi> from other people, ſo that now the onely way to finde out the truth is to peruſe theſe en<g ref="char:EOLhyphen"/>ſuing Scriptures.</p>
+            <p>As fitſt take notice what the <hi>Profit</hi>
+               <note place="margin">Iſaiah 1. 1. 22:</note> 
+               <hi>Iſaiah</hi> ſaith, which <hi>text</hi> I conceive is important to the queſtion in hand, in that it is an <hi>expoſition</hi> of thoſe <hi>texts</hi> for<g ref="char:EOLhyphen"/>merly coated, ſo that I need not uſe any other argument, ſave onely the <hi>language</hi> of this <hi>Profit</hi> who ſheweth plainly that all thoſe of the 12. <hi>tribes</hi> were not true <hi>Iſrael,</hi> that all thoſe <hi>generations</hi> were not <hi>regenerate;</hi> therefore <hi>but a remnant ſhall</hi>
+               <note place="margin">Verſ: 21:</note> 
+               <hi>returne even the remnant of Iacob &amp;c.</hi> ſo that take notice, that although <hi>thy people O Iſrael be as the ſand of the Sea, yet but a remnant of them ſhall returne,</hi> ſo that deare friends, all that had their <hi>originall</hi>
+               <note place="margin">1. Note.</note> from the <hi>loynes</hi> of <hi>Abraham,</hi> according to fleſh, were not true <hi>Iſrael,</hi> as more fully will appeare in the next <hi>Scripture,</hi> where<note place="margin">Rom: 9: 7.</note> it is ſaid they are not all <hi>children</hi> any whit the more; for being of the ſeed of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> as if he had ſaid it matters not; for all their <hi>birth externall,</hi> in that their <hi>birth-right</hi> and <hi>evidence</hi> doth not ariſe there from, that <hi>birth-right</hi> which the <hi>Profit</hi> and <hi>Apoſtle</hi> here intends that <hi>birth<g ref="char:EOLhyphen"/>right</hi> by which thou art intituled, and ſo
+<pb facs="tcp:169435:10"/> choſen one of true <hi>Iſrael,</hi> I ſay for all <hi>A<g ref="char:EOLhyphen"/>braham</hi> be thy <hi>kinſman</hi> according to fleſh, yet obſerve thou art but onely of <hi>Iſrael,</hi> and not <hi>Iſrael,</hi> as ſaith the <hi>Apoſtle for all</hi>
+               <note place="margin">Verſ. 6.</note> 
+               <hi>they are not Iſrael which are of Iſrael,</hi> ſo that deare friends your <hi>profeſſion</hi> without <hi>poſſeſſion,</hi> your relation to <hi>Abraham</hi> and not with <hi>Izack</hi> is of no validity, becauſe ſaith the <hi>text</hi> in <hi>Izack</hi> ſhall thy <hi>ſeed</hi> be called ſo that this may put a period to a<g ref="char:EOLhyphen"/>ny ſuch doubts or queeries, that may aſ<g ref="char:EOLhyphen"/>ſault my expoſition hereon, as to con<g ref="char:EOLhyphen"/>clude that any of <hi>Abrahams kindred</hi> were true <hi>Iſrael,</hi> ſave onely thoſe that were called in <hi>Iſack<g ref="char:punc">▪</g>
+               </hi> thoſe that were <hi>Children</hi>
+               <note place="margin">1 Cor. 10 18.</note> of the <hi>promiſe</hi> thoſe that were <hi>elected</hi> be<g ref="char:EOLhyphen"/>fore the <hi>foundation</hi> of the world, thoſe that were beloved in <hi>eternity,</hi> &amp; ſo choſen for true <hi>Iſrael</hi> theſe and onely theſe are<note place="margin">Gal 6: 16:</note> true <hi>Iſrael,</hi> as have beene by argument confirmed with <hi>ſcripture</hi> proved.</p>
+            <p>Secondly what will trouble true <hi>Iſra<g ref="char:EOLhyphen"/>el</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> true <hi>beleevers</hi> &amp;c.</p>
+            <p>In anſwer hereto I muſt be ſilent in that there is ſo many experienced <hi>Fathers Prophets</hi> and <hi>Apoſtles,</hi> So many true <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> that can better then I give you ſatisfaction herein ſo that I ſhall but onely rehearſe over their <hi>records</hi> in that ſome of you are not verſed in the letter
+<pb facs="tcp:169435:10"/> and others there are that obſerve not what they read, ſo that deare friends if you pleaſe to peruſe the <hi>Scripture,</hi> you ſhall finde what troubled <hi>Noah</hi> and <hi>A<g ref="char:EOLhyphen"/>braham</hi> if not ſins &amp; iniquities, you ſhall<note place="margin">2 Pet. 2: 7.</note> finde <hi>Lot</hi> troubled with the ſins of <hi>Sodom,</hi> you ſhall finde <hi>Moſes</hi> troubled with the ſins of <hi>Iacobs children,</hi> you ſhall finde <hi>Io<g ref="char:EOLhyphen"/>ſhua</hi>
+               <note place="margin">Ioſh: <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1: 7</note> troubled with <hi>Achans</hi> wedge of gold, you ſhall find <hi>Samuel</hi> troubled with he ſins of <hi>Saul</hi> you ſhall finde <hi>Ieremiah</hi> weeping for the ſin of his people, you ſhall finde the <hi>diſciples</hi> troubled with the ſins of the <hi>Iewes,</hi> So you ſhall finde this <hi>El<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jah</hi> this <hi>defendant</hi> troubled with the abominations of <hi>King Ahab,</hi>
+            </p>
+            <p>Thus deare friends I have given you the judgements of moſt of the ancient and holy <hi>writers</hi> what have and what will trouble true <hi>Iſrael,</hi> as ſins and ini<g ref="char:EOLhyphen"/>quitie of any ſort whatſoever in eſpecial<g ref="char:EOLhyphen"/>ly that great ſin of perſecution committed and enacted dayly, againſt <hi>Elijahs</hi> kins<g ref="char:EOLhyphen"/>men, yet this is no trouble to <hi>Ahab</hi> nor his friends to have conventicles in <hi>ta<g ref="char:EOLhyphen"/>verns</hi> and <hi>ale-houſes,</hi> in <hi>cities townes</hi> and <hi>pariſhes</hi> conſpiring and plotting <hi>treaſon</hi> againſt the <hi>King</hi> of <hi>Kings,</hi> inventing miſ<g ref="char:EOLhyphen"/>chiefe againſt the <hi>Saints</hi> of the moſt high, yet in all this <hi>Ahab</hi> and his <hi>Kinſmen</hi> are
+<pb facs="tcp:169435:11"/> not here at troubled, yet on the contrary when <hi>Eliahs</hi> kinſmen are aſſembled to<g ref="char:EOLhyphen"/>gether<note place="margin">Matth: 7: 1</note> either in <hi>fields boates</hi> or <hi>houſes</hi> to teach or heare the word of God, not<g ref="char:EOLhyphen"/>withſtanding it be approved of by the <hi>King</hi> of <hi>Kings,</hi> yet <hi>King Ahab</hi> and his kinſmen, are much troubled, as that <hi>Eliah</hi> ſhould wander up &amp; down the <hi>kingdom,</hi> preaching <hi>Meſias</hi> to be the onely truth, this (and only this) is the caſe that <hi>people kings</hi> and <hi>nations</hi> are troubled as this <hi>Eli<g ref="char:EOLhyphen"/>ah,</hi> this <hi>defendant</hi> had experience, being by a wicked <hi>King</hi> perſecuted for a troubler of <hi>Iſrael,</hi> ſaying art thou he that trou<g ref="char:EOLhyphen"/>bleth <hi>Iſrael</hi> &amp;c.</p>
+            <p>Thus deare friends, the <hi>concluſion</hi> is clear that the troublers are firſt troubled.</p>
+            <p>So that it is apparent my ſecond <hi>pro<g ref="char:EOLhyphen"/>poſition</hi> will vindicate it ſelfe, and with Scripture defend it ſelfe.</p>
+            <p>That a truth propheſied or preached<note place="margin" type="runSum">Doct.</note> by a poore <hi>Eliah,</hi> a poore ſaint is eſteem<g ref="char:EOLhyphen"/>ed a trouble to the nobility of <hi>Iſrael.</hi>
+            </p>
+            <p>Deare friends, I hope by this time you are ſatisfied that my concluſions do not conſiſt of untempored <hi>morter</hi> as <hi>Philoſo<g ref="char:EOLhyphen"/>phie</hi> onely, or <hi>Logick</hi> patched togethet with <hi>lincy woolcy,</hi> or ſuch like ſtuff; but that thou may with a poor <hi>priſon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> con<g ref="char:EOLhyphen"/>clude that in them is no mixture, but true
+<pb facs="tcp:169435:11"/> effects of that onely truth <hi>Chriſt Ieſus</hi> in hopes thereof I ſhall advance to meet with my adverſaries <hi>Ahabs kinſmen</hi> the troublers of <hi>Iſrael.</hi>
+            </p>
+            <p>So that ſmall time the Lord ſhall ena<g ref="char:EOLhyphen"/>ble me to ſpeak, and give you hearts to heare.</p>
+            <p>I ſhall deliver my judgement in this method which is.</p>
+            <p>Firſt, to prove the doctrine. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+            </p>
+            <p>Secondly, anſwer 3. objections. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+            </p>
+            <p>Thirdly, apply the ſame to whom it <milestone type="tcpmilestone" unit="unspecified" n="3"/> may concerne.</p>
+            <p>Were it not that ſuppoſed queries would <milestone type="tcpmilestone" unit="unspecified" n="1"/> hereafter ariſe, the text were ſufficient to prove the truth hereof, yet for your ſa<g ref="char:EOLhyphen"/>tisfaction<note place="margin">1 Kin. 22.</note> turne with me to <hi>Michaiah</hi> who for propheſying a truth did greatly offend <hi>King Ahab:</hi> ſo <hi>Ierimiah</hi> for pro<g ref="char:EOLhyphen"/>pheſying<note place="margin">Ier. 37 15.</note> a truth was counted a troubler<note place="margin">Act. 5. 18. 7. 51. 16, 20.</note> of <hi>Iſrael;</hi> ſo the <hi>diſciples</hi> of Chriſt wil ful<g ref="char:EOLhyphen"/>ly confirm this. <hi>Doct.</hi> As when they prea<g ref="char:EOLhyphen"/>ched the Lord Jeſus, it cut the <hi>elders</hi> even to the heart; yea, they were ſo exceeding<g ref="char:EOLhyphen"/>ly troubled, that little leſſe then death<note place="margin">Pſalm. 2, 2 Act: 17: 6:</note> muſt be their reward: So in the like oc<g ref="char:EOLhyphen"/>caſion, you ſhall hear the out-cry of peo<g ref="char:EOLhyphen"/>ple: ſaying, theſe men do exceedingly trouble our <hi>City;</hi> yea for preaching the<note place="margin">Act: 34: 5:</note> Truth, you ſhall be the men that turn the
+<pb facs="tcp:169435:12"/> Kingdom upſide down, and in concluſion<note place="margin">Dan. 6. 7.</note> eſteemed movers of ſedition; yea trou<g ref="char:EOLhyphen"/>blers of Counties, Towns, and Pariſhes.<note place="margin" type="runSum">Obj. 1.</note>
+            </p>
+            <p>Yet ſay you we conceive ſuch Truths ſhould be ſilent, that we underſtand will hinder a <hi>Reformation,</hi> and ſo trouble their<note place="margin">Prov. 25. 11.</note> proceedings as from theſe <hi>Scriptuures</hi> will appear. <hi>A word ſpoken in his place is</hi>
+               <note place="margin">Rom. 12. 18.</note> 
+               <hi>like Apples of Gold with Pictures of Sil<g ref="char:EOLhyphen"/>ver: So if it be poſſible as much as in you is be at peace with all men<g ref="char:punc">▪</g>
+               </hi> I do ſo conceive<note place="margin" type="runSum">Anſw.</note> too, provided that Reformation be <hi>real,</hi> not <hi>verbal,</hi> that under pretence of <hi>Refor<g ref="char:EOLhyphen"/>mation in Religion,</hi> doe root up <hi>Religion.</hi> I ſay if your Reformation be <hi>real,</hi> it muſt<note place="margin">Note.</note> be in Truth; ſo that <hi>Truth</hi> propheſied or preached, can in no kind be ſaid to hinder but further a <hi>Reformation;</hi> in that Truth muſt be the <hi>Foundation,</hi> Truth muſt be the <hi>inſtrumental</hi> caſe; yea Truth muſt be all in all in a true <hi>Reformation:</hi> So that your <hi>Scriptures</hi> if a true expoſition be gi<g ref="char:EOLhyphen"/>ven theron, are much important to the queſtion in hand, in that a word in due ſeaſon is commendable; yea, ſaith <hi>Wiſ<g ref="char:EOLhyphen"/>dome</hi> it produceth joy to the <hi>Speaker,</hi> and <hi>Auditory;</hi> yea, <hi>how good is a word in due ſeaſon:</hi> But the queſtion is when is the Seaſon, if not to reprove a <hi>Child</hi> when he offends; if not to reprove <hi>David</hi> upon the
+<pb facs="tcp:169435:12"/> act of <hi>Adultery:</hi> So when were a time more ſeaſonable for <hi>Elijah</hi> to divulge a <hi>Famine;</hi> but when <hi>Ahab</hi> had <hi>Idolized</hi> his <hi>Pride</hi> and <hi>Voluptuouſneſſe:</hi> ſo that deare friends to conceal a Truth when Errours are publiſhed, is not the ſeaſon, but to ſpeak a word in due ſeaſon, is to preach <hi>light</hi> in <hi>darkneſſe,</hi> to divulge <hi>Truth</hi> in op<g ref="char:EOLhyphen"/>poſition to <hi>Errors;</hi> as ſaith the <hi>Apoſtle, Be</hi>
+               <note place="margin">2 Tim. 4. 2</note> 
+               <hi>instant in ſeaſon, and out of ſeaſon;</hi> ſo that it is cleer, there is no ſeaſon, but a <hi>Truth</hi> ought, nay muſt be divulged (Provided) the God of <hi>Truth</hi> carry out thy heart by the Power of <hi>Truth;</hi> to ſpeak nothing but the <hi>Truth, as it is in Ieſus.</hi>
+            </p>
+            <p>I ſay to thee, it matters not, whether<note place="margin">So eſtee<g ref="char:EOLhyphen"/>med.</note> 
+               <hi>learned</hi> or <hi>unlearned:</hi> whether a <hi>Trades<g ref="char:EOLhyphen"/>man</hi> or no; if God hath given thee a <hi>Ta<g ref="char:EOLhyphen"/>lent,</hi> thou muſt <hi>traſuck</hi> with it, as Chriſt hath the ſaying: <hi>no man lights a candell to</hi>
+               <note place="margin">Mat. 5. 15</note> 
+               <hi>put under a buſhel.</hi> So that it's the expreſſe command of Chriſt, that ſuch ſo gifted muſt not be ſilent, leaſt in ſo doing he be condemned for an unprofitable Servant:<note place="margin">Matth. 25<g ref="char:punc">▪</g> 26.</note> but, <hi>ſay you, if it be poſſible as much as in you is, be at peace with all men:</hi> True, it is a bleſſed condition; but the queſtion is, whether the <hi>Apoſtle</hi> intends there the ſi<g ref="char:EOLhyphen"/>lencing of <hi>Truth,</hi> that thereby you may attain love and peace with all men (or
+<pb facs="tcp:169435:13"/> that) when thou art reviled of any man, not to revile again; as when thou art evill ſpoken off, not to ſpeak evill again: to this purpoſe, the <hi>Apoſtle</hi> hath his ſaying, <hi>Re<g ref="char:EOLhyphen"/>compence to no man evil for evil:</hi> but if thy<note place="margin">Verſ. 17.</note> enemy hunger feed him, &amp;c. This beloved is the Exhortation, that ye would be at peace with all men, <hi>that is,</hi> overcome their <hi>pride</hi> with your <hi>humility;</hi> overcome their <hi>malice</hi> with your <hi>love;</hi> overcome their<note place="margin">Verſ. 21.</note> 
+               <hi>evill</hi> with your <hi>good,</hi> that ſo if it be poſſi<g ref="char:EOLhyphen"/>ble, you may be at peace with all men, <hi>good</hi> or <hi>bad, friend</hi> or <hi>foe,</hi> &amp;c. (yet not ſo) as to bury Truth; but in all love diſcover Truth, that Chriſt did not come to ſend Peace without Truth, but Peace with Truth; that ſo Truth and Peace may kiſſe each other, &amp;c.</p>
+            <p>But you will ſay who may wee moſt ſuſpect a many or a few the<note place="margin" type="runSum">Obj. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> wiſe or the ignorant thoſe that are gifted and called or thoſe that are not, in that<note place="margin">Prou. 15. 7. 1 Cor. 7, 20.</note> ſaith the <hi>wiſeman the lipps of the wiſe diſperſe, knowledge,</hi> and ſaith the <hi>Apo<g ref="char:EOLhyphen"/>ſtle let every man abide in the ſame voca<g ref="char:EOLhyphen"/>tion wherein he</hi> was called. It is very re<g ref="char:EOLhyphen"/>quiſite<note place="margin" type="runSum">Anſw.</note> to anſwer this objection in that the trouble may be imputed to the trou<g ref="char:EOLhyphen"/>blers, to th' end it may appear take the ad<g ref="char:EOLhyphen"/>viſe of <hi>Elijah,</hi> he having experience can di<g ref="char:EOLhyphen"/>rect
+<pb facs="tcp:169435:13"/> you the truth hereof that notwith<g ref="char:EOLhyphen"/>ſtanding the <hi>prophets</hi> of <hi>Baal</hi> be <hi>four hundred</hi> and <hi>fifty</hi> in oppoſition to one<note place="margin">verſ. 19.</note> poor <hi>Elijah,</hi> yet try your doctrine by the touchſtone of truth <hi>Chriſt Ieſus</hi> in which you ſhall finde that the people of God the Family of love are not many but few, yea the feweſt of all <hi>Sects</hi> or <hi>Churches</hi> whatſoever, (So few) that it is the ſubject of Chriſt ſaying <hi>my little</hi>
+               <note place="margin">Luke 12. 32.</note> 
+               <hi>flock</hi> two <hi>of a tribe</hi> one of a <hi>city,</hi> So that it may be ſuſpected if not concluded that an error may be found in many and a truth in few, but ſay you theſe <hi>prophets</hi> ſo many, this <hi>aſſembly</hi> ſo great, are men of wiſdome; therfore cannot erre, neither is there any colour or ſhew that theſe ſhould propheſie a lie and one poore <hi>traidſman</hi> that hath no leaarning ſhould preach a trueth, in that ſaith the text the lips of the <hi>wiſe</hi> not the <hi>ignorant</hi> O deare friends what <hi>wiſdom</hi> is this, what <hi>wiſe men</hi> are theſe, whether you intend the <hi>wiſe men</hi> the <hi>Sorcerers</hi> of <hi>Egypt,</hi> or <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Aaron,</hi> whether the <hi>Magici<g ref="char:EOLhyphen"/>ans</hi> the <hi>Aſtrologians</hi> or <hi>Daniel,</hi> whether the <hi>Scribes</hi> &amp; <hi>Phariſees</hi> or Chriſt and his <hi>Diſciples,</hi> Dear friends have you not read that God will confound the <hi>wiſdom</hi> of the wiſe; ſo that he ſaith where <hi>is the
+<pb facs="tcp:169435:14"/> wiſe where is the Scribe, where is the diſ<g ref="char:EOLhyphen"/>puteer</hi>
+               <note place="margin">1 Cor. 1. 19. 20.</note> 
+               <hi>of this world hath not God made the wiſdom of this world fooliſhneſſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Is not this too too apparant that, that which is fooliſhneſſe with God is wiſdom with man that which is of no validity with God is in high eſtimation with man, if not why not the ignorant ſo accounted as the learned, Oh my deare friend that I might prevail with this <hi>court</hi> in the behalf of <hi>Ahabs</hi> kinſ<g ref="char:EOLhyphen"/>men, O that theſe tears might move the Judg of the Court to ſhew kindneſſe un<g ref="char:EOLhyphen"/>to them; notwithſtanding their unkind<g ref="char:EOLhyphen"/>neſſe towards <hi>Elijahs</hi> friends: this is the evill: this is the injury that I wiſh my Adverſaries; even this, that the <hi>Lord</hi> the <hi>Iudg</hi> of this <hi>Court</hi> would open their eys, that ſo they might ſee the evill of their doings; even this evill, of accuſing and attaching innocent <hi>Elijah,</hi> inocent Saints for troublers of <hi>Iſrael,</hi> when you have heard they are found troublers themſelvs but ſay you theſe <hi>Elijahs</hi> kinſmen ought to follow their vocation, their trades and callings appointed them, &amp; not take upon them the work of the <hi>Miniſtery,</hi> wanting parts enabling them therto; by which all <hi>ſcandals, reproaches, and tumults</hi> would be taken away, and <hi>People, Citiet, Towns,</hi> and
+<pb facs="tcp:169435:14"/> 
+               <hi>Villages,</hi> would be at peace and unity.</p>
+            <p>Dear friends, do but ſeriouſly conſider the extent of this <hi>Apologie</hi> or <hi>Expoſition</hi> on this <hi>Scripture;</hi> let every man abide in<note place="margin">That is in reference to a hu<g ref="char:EOLhyphen"/>man Cal<g ref="char:EOLhyphen"/>ling, not a divine cal, being con<g ref="char:EOLhyphen"/>firmed a Miniſter, may have both. Mat. 6. 3. Act. 18. 3.</note> the vocation wherin he was called: from hence you infer, that no man ought to lay aſide or change his calling, or that a man ſo called, ſo traided, ought not to aſſume to himſelf another Calling. In anſwer to this <hi>Chriſt</hi> and the <hi>Diſciples</hi> are engaged, in that theſe aſperſions &amp; falſe imputati<g ref="char:EOLhyphen"/>ons doth as highly concern the<g ref="char:cmbAbbrStroke">̄</g>, as any o<g ref="char:EOLhyphen"/>ther in that, we underſtand Chriſt was a <hi>Carpenter,</hi> the Diſciples <hi>Fiſher-men, Paul &amp; Aquila</hi> was <hi>Tent-makers;</hi> yet notwith<g ref="char:EOLhyphen"/>ſtanding their <hi>crafts,</hi> they took upon the<g ref="char:cmbAbbrStroke">̄</g> the work of the <hi>Ministery,</hi> as appeareth in the Record, where you may find <hi>Chriſt</hi> queſtioned by what <hi>authority</hi> he did <hi>preach.</hi>
+               <note place="margin">Act. 4.</note> So the <hi>Diſciples</hi> was examined, in whoſe Name they did teach, &amp; do miracles, &amp;c. yet wanted a human <hi>call,</hi> having no expe<g ref="char:EOLhyphen"/>rience of any <hi>Vniverſitie</hi> or <hi>Colledg</hi> what<g ref="char:EOLhyphen"/>ſoever; yet wanted no ability to divide the Word of God aright, or to cary forth that holy &amp; <hi>heavenly meſſage</hi> of the <hi>King</hi> of <hi>Kings,</hi> but were in a high meaſure ap<g ref="char:EOLhyphen"/>proved of by God, &amp; therby <hi>authorized</hi> by the divine inſpiratio<g ref="char:cmbAbbrStroke">̄</g> to the aſtoniſhme<g ref="char:cmbAbbrStroke">̄</g>t of their adverſaries, by being not only able
+<pb facs="tcp:169435:15"/> 
+               <hi>Miniſter</hi> of the <hi>Letter,</hi> but able <hi>Miniſters</hi> of the <hi>Spirit,</hi> fro<g ref="char:cmbAbbrStroke">̄</g> thence ſtudying to ſhew the<g ref="char:cmbAbbrStroke">̄</g>ſelvs approved, not only by man but God, and therby vindicating their calling &amp; inſtitutio<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> ſuch <hi>reproches</hi> &amp; <hi>tumults</hi> affirming that it doth not ariſe from their Preaching, but from their envious ſpirits, in that they ſeek their own praiſ &amp; credit more then the praiſe or credit of God, and hereby are inraged with cruelty over the Saints of the moſt high, ſuppoſing to blot out, or at leaſt ſilence the <hi>language</hi> of the <hi>Scripture,</hi> which the <hi>Apostle</hi> hath ſo fully<g ref="char:punc">▪</g>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 1. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 1. 11 1 Cor. 4. 1</note> recorded that he was by the will of God appointed, <hi>A Preacher, an Apoſtle, &amp; a tea<g ref="char:EOLhyphen"/>cher of the Gentiles; therfore let</hi> Iſrael <hi>ſo think of us as of the miniſters of Chriſt, &amp; diſpoſers of the ſecrets of God.</hi> So that it is cleer, that the troublers are firſt troubled, wicked <hi>Ahab</hi> for breaking the co<g ref="char:cmbAbbrStroke">̄</g>mands of God, &amp; not <hi>Elijab;</hi> ſaying, I have not: no, it is <hi>thou and thy Fathers houſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> &amp;c.</p>
+            <p>But ſay you, we are to give no offence<note place="margin" type="runSum">
+                  <hi>Obj.</hi> 3. 1 Cor. 10. 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> to any whatſoever high or low, rich or poor, <hi>Chriſtians</hi> or <hi>Heathens,</hi> as ſaith the <hi>Apoſtle,</hi> give none offence, neither to <hi>Iewes</hi> nor to the <hi>Grecians,</hi> nor to the <hi>Church</hi> of God; therefore you are not to proceed in ſuch a way that doe of<g ref="char:EOLhyphen"/>fend, not only in the <hi>ſingular,</hi> but <hi>plu<g ref="char:EOLhyphen"/>rall,</hi> even a whole <hi>Kingdome.</hi>
+            </p>
+            <pb facs="tcp:169435:15"/>
+            <p>It is requiſite every man ſhould be cau<g ref="char:EOLhyphen"/>tious<note place="margin" type="runSum">Anſw.</note> herein, and very watchfull and cir<g ref="char:EOLhyphen"/>cumſpect, that nothing be acted by thee, that may offend the adverſe party; that although it be thy liberty to <hi>eat</hi> or <hi>drink</hi> or do any ſuch thing; yet if it be a bon<g ref="char:EOLhyphen"/>dage to another, I conceive thou ought to forbear in that it is but morall; ſo in<g ref="char:EOLhyphen"/>different, that notwithſtanding it be lawfull to thee, yet it is not expedient for the other: Therefore (ſaith the <hi>Apo<g ref="char:EOLhyphen"/>ſtle</hi>)<note place="margin">1 Cor. 8. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>if meat offend my brother, I will never eat fleſh ſo long as I live;</hi> would <hi>Paul</hi> for<g ref="char:EOLhyphen"/>bear to eat that which is comfortable &amp; refreſhing to the body, and all that he might not offend his brother, ſo I co<g ref="char:cmbAbbrStroke">̄</g>ceive ought every <hi>Chriſtian</hi> to forbear ſuch things as are indifferent, inſtance <hi>days, times,</hi> and <hi>ſeaſons,</hi> concerning which hath been a great offence in <hi>cities, towns,</hi> and <hi>villages,</hi> in that ſome <hi>eſteems one day above another, and another man counteth e<g ref="char:EOLhyphen"/>very doy alike:</hi> So that ſaith the <hi>Apoſtle,</hi>
+               <note place="margin">Rom. 14<g ref="char:punc">▪</g>
+               </note> let every man be fully perſwaded in his minde, which perſwaſion will remove all offences; that notwithſtanding ſome ope<g ref="char:cmbAbbrStroke">̄</g> their <hi>ſhops,</hi> others ſhut their <hi>ſhops,</hi> yet if both perſwaded, what need offence ariſe, but if it do ariſe, the riſe therof is offence given. So the offender, then to obſerve, or
+<pb facs="tcp:169435:16"/> not obſerve a day is no offence, but if thou that keeps the day be offended at me for not obſerving the day, thou gives offence; ſo the offender the diſturber of Peace, the troubler of <hi>Iſrael.</hi> As obſerve, two men of two <hi>judgements,</hi> one for <hi>ſprinkling</hi> of <hi>infants,</hi> the other for <hi>dipping believers,</hi> yet thou art in peace with one, and he in peace with the other, ſo that there is no offence in either, but now if he that is <hi>ſprinkled</hi> be offended at he that is <hi>dipped,</hi> then the party <hi>ſprinkled</hi> gives the offence; ſo the offender the troubler of <hi>Iſrael.</hi> As is confirmed in one remarka<g ref="char:EOLhyphen"/>ble paſſage betwixt the <hi>Lord Major</hi> of <hi>London,</hi> and a <hi>Conſtable</hi> of the ſaid <hi>City<g ref="char:punc">▪</g>
+               </hi> in whoſe <hi>Ward</hi> there was ſome Saints aſ<g ref="char:EOLhyphen"/>ſembled together, to reaſon out the <hi>mi<g ref="char:EOLhyphen"/>ſteries</hi> of the <hi>Goſpell;</hi> concerning which, notice was given to the <hi>neighbours,</hi> that there was a <hi>private conventicle,</hi> at which they were ready to obey their father, and with all vigilance to put his work in agi<g ref="char:EOLhyphen"/>tation, which was done accordingly, in<g ref="char:EOLhyphen"/>ſomuch that there was a great tumult; upon which the <hi>Conſtable</hi> of the ſaid <hi>Pa<g ref="char:EOLhyphen"/>riſh</hi> did inform the <hi>Lord Major,</hi> and withall deſire <hi>a warrant</hi> to fetch thoſe Saints before his <hi>Lordſhip,</hi> to which the <hi>Lord Major</hi> replied, by whom is the tu<g ref="char:EOLhyphen"/>mult
+<pb facs="tcp:169435:16"/> from them within, or them with<g ref="char:EOLhyphen"/>out? the ſaid <hi>Conſtable</hi> being convinc'd of the truth thereof anſwered, from them without, then make the <hi>warrant</hi> to ap<g ref="char:EOLhyphen"/>prehend the<g ref="char:cmbAbbrStroke">̄</g> without, &amp;c. From hence let all ſorts of people obſerve, that he that is the 1. troubled is the troubler, he that takes the offence gives the offence, ſo the offender. Then it may be concluded, that <hi>Elijahs</hi> kinſmen, thoſe that you call <hi>Con<g ref="char:EOLhyphen"/>venticlers,</hi> thoſe that you call <hi>Tub-prea<g ref="char:EOLhyphen"/>chers,</hi> thoſe that are <hi>tradeſmen,</hi> that have no human <hi>learning,</hi> do not give offence, do not trouble true <hi>Iſrael.</hi> No, no, it is <hi>Ahabs</hi> kinſmen; ſuch as deride, reproach, &amp; perſecute <hi>Elijahs</hi> friends, the Saints of the moſt high; theſe and ſuch as theſe are the offenders, the troublers of true <hi>Iſrael.</hi> Thus dear friends, having with all brevi<g ref="char:EOLhyphen"/>ty that might be, &amp; with as much ſobrie<g ref="char:EOLhyphen"/>ty as the Lord hath afforded me, collected the quinteſſence of the Text into 2. con<g ref="char:EOLhyphen"/>cluſions, &amp; from the<g ref="char:cmbAbbrStroke">̄</g>ce reduc'd the excel<g ref="char:EOLhyphen"/>lence therin contained into ſeverall bran<g ref="char:EOLhyphen"/>ches, ſo that little elſe can be expected; only my concluſion in 2. things, which is. 1. That you would walk circumſpectly in<note place="margin">1 Pet. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 14, 16.</note> all your ways, that ſo your accuſation may appear with <hi>Elijah ſuppoſitive,</hi> and not <hi>affirmative;</hi> therefoer ſaith Chriſt, be<g ref="char:EOLhyphen"/>ware of men: ſo ſay I, beware of <hi>Ahabs</hi>
+               <pb facs="tcp:169435:17"/> kinſmen, deſerve no ſtain in your white <hi>raiment,</hi> that they have no ſinfull act to brand your <hi>profeſſion</hi> with, knowing this, that if thou be a friend of <hi>Elijah,</hi> thou haſt many enemies that waits for thy fal<g ref="char:EOLhyphen"/>ling; therefore I ſay, be vigilant in all that thou do, that when thou art accuſed<g ref="char:punc">▪</g> and attached by <hi>Ahabs</hi> friends thy cauſe may he as inno<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t as <hi>Elijah,</hi> that ſo the judge of the <hi>Court</hi> may vindicate thy good name from falſe <hi>information. &amp;c.</hi>
+            </p>
+            <p>If it ſo fall out, thou be the man that <milestone type="tcpmilestone" unit="unspecified" n="2"/> is ptrſecuted by <hi>Ahab</hi> or his friends, my requeſt is, thou would be exhorted by <hi>Chriſt;</hi> to be arm'd with <hi>Elijah's</hi> pati<g ref="char:EOLhyphen"/>ence, that ſo thou may overcome their evill with good, and labor with all meek<g ref="char:EOLhyphen"/>neſſe and tender reſpects, to redeem that time they loſe, in letting thy <hi>light</hi> ſo<note place="margin">Math. 5 16</note> ſhine before men of all <hi>ſorts</hi> and <hi>Sects</hi> whatſoever, that thereby <hi>Ahabs</hi> acquain<g ref="char:EOLhyphen"/>tance may have the like occaſion to glori<g ref="char:EOLhyphen"/>ſie God, as they had by thy friend <hi>Elijah,</hi> ſaying, <hi>the Lord is God, the Lord is God.</hi> Thus having done; thou ſhalt overthrow the <hi>treachery</hi> of any adverſaries, in the ſaying of <hi>Elijah. I have not troubled</hi> Iſ<g ref="char:EOLhyphen"/>rael, <hi>but thou and thy fathers houſe, in that ye have forſaken the commandements of the Lord, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
